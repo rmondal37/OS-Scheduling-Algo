@@ -4,4 +4,4 @@
 - The code was tested separately for CPU and I/O bound tasks.
 - This repository only contains the patch file created after modifications in the code.
 - The patch file needs to be applied to cloned xv6 source code on the user's system.
-- To apply patch file, write `git apply g22_2b.patch`.
+- To apply patch file, write `git apply g22_2b.patch` inside cloned xv6 repository on user's system.
